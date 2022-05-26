@@ -1,0 +1,19 @@
+{
+  "Examply@McExample.com": {
+    "Name": "Examply McExample",
+    "Password": "abc123",
+    "Files": {},
+    "Contacts": {
+      "FrFrSn@mail.net": { "Display Name": "Hank Er Cheif" }
+    },
+    "Connected": false
+  },
+  "FrFrSn@mail.net": {
+    "Name": "Friend Frienderson",
+    "Password": "qwe890",
+    "Files": {},
+    "Contacts": {},
+    "Connected": true
+  }
+}
+
